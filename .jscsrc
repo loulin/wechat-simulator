@@ -1,0 +1,6 @@
+{
+    "preset": "airbnb",
+    "esnext": true,
+    "requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
+    "excludeFiles": ["build/**", "node_modules/**"]
+}
