@@ -6,7 +6,7 @@ Wechat server simulation for sending event or message to user server, mostly use
 
 ### Example
 ```js
-var Simulator = require('./');
+var Simulator = require('wechat-simulator');
 
 // wechat config must be the same with your server
 var simulator = new Simulator({
